@@ -7,4 +7,4 @@ Subsequently, I developed a verification plan encompassing constraints, function
 Similarly, the verification plan for the RAM is available here:
 ![image](https://github.com/aboElhammd/SPI-slave-connected-to-single-port-ram-/assets/124165601/ff552339-070b-4fe7-8d64-4b4633a2f1d4)
 
-Throughout the process, I identified and rectified all detected bugs until achieving satisfactory coverage sign-off.
+Throughout the process, I identified and rectified all detected bugs until achieving satisfactory coverage sign-off and all the coverage reports are included in the files above.
