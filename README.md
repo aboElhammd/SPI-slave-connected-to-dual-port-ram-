@@ -10,6 +10,7 @@ Similarly, the verification plan for the RAM is available here:
 Throughout the process, I identified and rectified all detected bugs until achieving satisfactory coverage sign-off and all the coverage reports are included in the files above and here is snippets of the important information in it :
 
 branch coverage :
+
 ![image](https://github.com/aboElhammd/SPI-slave-connected-to-single-port-ram-/assets/124165601/8a3e8d02-dce3-4c4e-9c7e-36128e5767c4)
 
 this missed one is due to the default in case that will not be triggered because we covered all cases of case statement so it will not get into default
@@ -17,6 +18,7 @@ this missed one is due to the default in case that will not be triggered because
 statement coverage :
 
 ![image](https://github.com/aboElhammd/SPI-slave-connected-to-single-port-ram-/assets/124165601/0b74401f-97ac-4f09-b2e9-ec3f85475e25)
+
 toggle coverage :
 
 ![image](https://github.com/aboElhammd/SPI-slave-connected-to-single-port-ram-/assets/124165601/f29fb1b3-f828-4058-bba5-c572cf0c0eae)
