@@ -26,8 +26,11 @@ toggle coverage :
 and here is a some snippets from questasim :
 
 functional coverage :
+
 ![image](https://github.com/aboElhammd/SPI-slave-connected-to-single-port-ram-/assets/124165601/56c7418d-1a5e-4842-a0f6-f3c8e53557b1)
+
 assertions coverage :
+
 ![image](https://github.com/aboElhammd/SPI-slave-connected-to-single-port-ram-/assets/124165601/30a63fe4-ad97-492b-985f-177dd09b3582)
 
 and here is a random snippets from questasim :
