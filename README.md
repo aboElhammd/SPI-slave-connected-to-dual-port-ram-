@@ -15,8 +15,10 @@ branch coverage :
 this missed one is due to the default in case that will not be triggered because we covered all cases of case statement so it will not get into default
 
 statement coverage :
+
 ![image](https://github.com/aboElhammd/SPI-slave-connected-to-single-port-ram-/assets/124165601/0b74401f-97ac-4f09-b2e9-ec3f85475e25)
 toggle coverage :
+
 ![image](https://github.com/aboElhammd/SPI-slave-connected-to-single-port-ram-/assets/124165601/f29fb1b3-f828-4058-bba5-c572cf0c0eae)
 
 and here is a some snippets from questasim :
